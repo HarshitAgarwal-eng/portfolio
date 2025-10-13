@@ -22,3 +22,10 @@ CSS: To design and style the website, making it visually appealing and responsiv
 JavaScript: For interactivity, such as smooth scrolling, hover effects, or toggling dark mode.​
 
 This combination ensures that the portfolio remains simple, easily customizable, and accessible, providing a solid foundation for showcasing individual skills and projects.
+
+## Screenshots of my Website
+
+![Home](https://github.com/HarshitAgarwal-eng/portfolio/blob/1739a2823914b675717e8eac3b6479f3e6f90e98/Screenshot%202025-10-13%20220326.png)
+![Home](https://github.com/HarshitAgarwal-eng/portfolio/blob/1739a2823914b675717e8eac3b6479f3e6f90e98/Screenshot%202025-10-13%20220333.png)
+![Home](https://github.com/HarshitAgarwal-eng/portfolio/blob/1739a2823914b675717e8eac3b6479f3e6f90e98/Screenshot%202025-10-13%20220349.png)
+![Home](https://github.com/HarshitAgarwal-eng/portfolio/blob/1739a2823914b675717e8eac3b6479f3e6f90e98/Screenshot%202025-10-13%20220401.png)
